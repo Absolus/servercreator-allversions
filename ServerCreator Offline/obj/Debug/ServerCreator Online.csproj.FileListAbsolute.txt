@@ -1,0 +1,7 @@
+G:\workspace\ServerCreator Online\ServerCreator Offline\bin\Debug\ServerCreator Offline.exe.config
+G:\workspace\ServerCreator Online\ServerCreator Offline\bin\Debug\ServerCreator Offline.exe
+G:\workspace\ServerCreator Online\ServerCreator Offline\bin\Debug\ServerCreator Offline.pdb
+G:\workspace\ServerCreator Online\ServerCreator Offline\obj\Debug\ServerCreator Online.csprojAssemblyReference.cache
+G:\workspace\ServerCreator Online\ServerCreator Offline\obj\Debug\ServerCreator Online.csproj.CoreCompileInputs.cache
+G:\workspace\ServerCreator Online\ServerCreator Offline\obj\Debug\ServerCreator Offline.exe
+G:\workspace\ServerCreator Online\ServerCreator Offline\obj\Debug\ServerCreator Offline.pdb
