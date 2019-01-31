@@ -1,0 +1,6 @@
+C:\Users\БогданКауфман\Desktop\ServerCreator Offline\ServerCreator Offline\bin\Debug\ServerCreator Offline.exe.config
+C:\Users\БогданКауфман\Desktop\ServerCreator Offline\ServerCreator Offline\bin\Debug\ServerCreator Offline.exe
+C:\Users\БогданКауфман\Desktop\ServerCreator Offline\ServerCreator Offline\bin\Debug\ServerCreator Offline.pdb
+C:\Users\БогданКауфман\Desktop\ServerCreator Offline\ServerCreator Offline\obj\Debug\ServerCreator Offline.csprojResolveAssemblyReference.cache
+C:\Users\БогданКауфман\Desktop\ServerCreator Offline\ServerCreator Offline\obj\Debug\ServerCreator Offline.exe
+C:\Users\БогданКауфман\Desktop\ServerCreator Offline\ServerCreator Offline\obj\Debug\ServerCreator Offline.pdb
